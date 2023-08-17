@@ -1,0 +1,112 @@
+@media screen and (max-width: 768px) {
+    /* styles for screens smaller than 768px */
+    .inputStyle {
+      width: 100%;
+      margin-left: 0;
+    }
+    .inputs2{
+        margin-left: 200px;
+    }
+    .select1Style {
+        width: 100%;
+    }
+    .Line{
+        margin-right: -20%;
+        margin-left: -30%;
+    }
+   
+    .row{
+        margin-left: -30%;
+    }
+    .city{
+        margin-top: 30%;
+    }
+    .inputs2{
+        margin-left: 13%;
+    }
+    .inputs3{
+        margin-left: 19%;
+    }
+   .ruless{
+    margin-right: -20%;
+    gap: 50%;
+    margin-top: -25%;
+   }
+   .instructions{
+    margin-top: 1%;
+   }
+    
+  }
+  
+  @media screen and (min-width: 768px) and (max-width: 1024px) {
+    /* styles for screens between 768px and 1024px */
+    .inputStyle {
+      width: 50%;
+      margin-left: 0;
+    }
+    .inputs2{
+        margin-left: 71px;
+    }
+    .select1Style {
+        margin-right: 50px;
+    }
+    .Line{
+        margin-right: 29%;
+    }
+    .submit{
+        margin-right: 30px;
+        max-width: 380px;
+    }
+    .address{
+        max-width: 400px;
+    }
+    .last{
+        max-width: 400px;
+    }
+    .last1{
+        max-width: 400px;
+    }
+    .select{
+        margin-top: 40%;
+    }
+   
+  }
+  
+  @media screen and (min-width: 1024px) {
+    /* styles for screens larger than 1024px */
+    .inputStyle {
+      width: 400px;
+      margin-left: 120px;
+    }
+    .Style {
+        margin-left: 71px;
+    }
+    .btnStyle {
+      width: 20%;
+      margin-left: 30%;
+    }
+     .select1Style {
+        margin-right: 20px;
+    }
+    .Line{
+        margin-right: 25%;
+    }
+    .lines{
+        margin-left: 5%;
+    }
+    .row{
+        margin-top: 40%;
+    }
+    .head{
+        margin-top: 50%;
+    }
+    .btnStyle {
+        margin-right: 30px;
+        width: 20px;
+    }
+    .select{
+        margin-top: 40%;
+    }
+  }
+  
+
